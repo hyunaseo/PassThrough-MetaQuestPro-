@@ -6,3 +6,6 @@
 *.mp4
 
 /PassThroughFrames/*
+*/.DS_Store
+*.chromedriver
+chromedriver
