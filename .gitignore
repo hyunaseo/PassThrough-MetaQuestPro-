@@ -4,3 +4,5 @@
 
 ### Video ###
 *.mp4
+
+/PassThroughFrames/*
